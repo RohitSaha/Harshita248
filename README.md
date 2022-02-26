@@ -6,10 +6,8 @@
 
 <p align="center">
   <em>
-    This is Rohit Saha, an Applied Research Intern at <a href="https://georgian.io"> <b>Georgian</b> in lovely Toronto!</a>. <br>
-    An aspiring <b>Full-Stack Web Developer  </b> <img src="https://media.giphy.com/media/7TcdtHOCxo3meUvPgj/giphy.gif" width="30px">   and a <b>Programmer, </b>&nbsp;<img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="36px">&nbsp <br><b>still a learner</b>
-    with the idea of <b>implementing</b> my work and growing into an <b>open source contributor </b> <img src="https://github.com/Harshita248/Harshita248/blob/main/Assets/Rocket.gif" width="18px">and a
-    <b>developer</b> <img src="https://github.com/Harshita248/Harshita248/blob/main/Assets/Medal.gif" width="20px">&nbsp.
+    This is Rohit Saha, an Applied Research Intern at <a href="https://georgian.io"> <b>Georgian</b> </a> in Toronto!. <br>
+    In 2021, I completed my Master's at the University of Toronto! My research interests include <b>Machine Learning</b>, <b>Deep Learning</b> and <b>Computer Vision</b>! Lately, I am exploring NLP and Multimodal Reasoning!
   </em>
 </p>
 
