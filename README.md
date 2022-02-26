@@ -1,7 +1,7 @@
 
-<h1 align="center"><img src="https://github.com/RohitSaha/Harshita248/blob/main/Assets/Hi.gif" width="30px">   𝐇𝐞𝐥𝐥𝐨, <𝚌𝚘𝚍𝚎𝚛𝚜/> ! <img src="https://github.com/RohitSaha/Harshita248/blob/main/Assets/Earth.gif" width="24px"> 
+<h1 align="center"><img src="https://github.com/RohitSaha/Harshita248/blob/main/Assets/Hi.gif" width="30px">   𝐇𝐞𝐥𝐥𝐨, Friend ! <img src="https://github.com/RohitSaha/Harshita248/blob/main/Assets/Earth.gif" width="24px"> 
 <br>
-<h1 align="center">I'm Harshita  <img src="https://github.com/RohitSaha/Harshita248/blob/main/Assets/Developer.gif" width="80px">
+<h1 align="center">I'm Rohit  <img src="https://github.com/RohitSaha/Harshita248/blob/main/Assets/Developer.gif" width="80px">
 </h1>
 
 <p align="center">
