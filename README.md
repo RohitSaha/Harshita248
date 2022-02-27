@@ -41,6 +41,6 @@
 # Connect with me <img src="https://github.com/RohitSaha/Harshita248/blob/main/Assets/Handshake.gif" height="32px">
 
 
-[<img align="left" alt="Harshita_Linkedin | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>](https://www.linkedin.com/in/rohit-saha-ai)
+[<img align="left" alt="RohitSaha_Linkedin | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>](https://www.linkedin.com/in/rohit-saha-ai)
 
 <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Harshita248&repo=Harshita248&countColorcountColor&countColor=%237B1E7B"/>
