@@ -38,20 +38,9 @@
 <br>
 <br>
 
-# Connect with me <img src="https://github.com/Harshita248/Harshita248/blob/main/Assets/Handshake.gif" height="32px">
+# Connect with me <img src="https://github.com/RohitSaha/Harshita248/blob/main/Assets/Handshake.gif" height="32px">
 
-[<img align="left" alt="HarshitaRaj_website" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/2996/2996826.svg" />](https://harshita248.github.io/PersonalPortfolio/)
 
-[<img align="left" alt="Harshita_Linkedin | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>](https://www.linkedin.com/in/harshita-raj)
-
-<a href="https://twitter.com/Harshit22030549">
-  <img align="left" alt="Harshita Raj | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-
-[<img align="left" alt="HarshitaRaj | Instagram" height="30px" src="https://image.flaticon.com/icons/svg/725/725278.svg" />](https://www.instagram.com/h_a_r_s_h_i_t_a__r_a_j_)
-
-<a href="https://t.me/harshita248">
-  <img align="left" alt="Harshita's Telegram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
+[<img align="left" alt="Harshita_Linkedin | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>](https://www.linkedin.com/in/rohit-saha-ai)
 
 <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Harshita248&repo=Harshita248&countColorcountColor&countColor=%237B1E7B"/>
