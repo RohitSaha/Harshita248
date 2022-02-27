@@ -10,7 +10,7 @@
 <p align="center">
   <em>
     This is Rohit Saha, an Applied Research Intern at <a href="https://georgian.io"> <b>Georgian</b> </a>, in Toronto! <br>
-    In 2021, I completed my Master's at the University of Toronto! My research interests include <b>Machine Learning</b>, <b>Deep Learning</b> and <b>Computer Vision</b>! Lately, I am exploring NLP and Multimodal Reasoning!
+    In 2021, I completed my Master's at the University of Toronto! My research interests include <b>Machine Learning</b>, <b>Deep Learning</b> and <b>Computer Vision</b>! Lately, I am exploring NLP and Multimodal Reasoning! 
   </em>
 </p>
 
